@@ -4,7 +4,7 @@
 
 ### Hello, what has been the highlight of your day?
 
-I'm Mitchell. I am currently studying computer science with a major in software development.
+I'm Mitchell. I'm currently studying computer science with a major in software development.
 
 ---
 
