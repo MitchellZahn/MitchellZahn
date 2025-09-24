@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👨‍💻 Mitchell Zahn
 
-<!--
-**MitchellZahn/MitchellZahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Code Conjurer | Developer/Creator`**
 
-Here are some ideas to get you started:
+### Hello, what has been the highlight of your day?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Mitchell, a computer science graduate with a major in software development.
+
+---
+
+## 🧰 Languages and Tools
+
+| 🏆 Primary | 📚 Learning |
+|:--------:|:-----------:|
+| <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> | <img alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> | 
+| <img alt="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> | <img alt="Godot" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" /> |  
+
+---
+
+## 🚀 Current Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| 🖥️ Learning **C++** | Tracking my progress as I learn C++ | [🔗 Repo](../../../learningcpp) |
