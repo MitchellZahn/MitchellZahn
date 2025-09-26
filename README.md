@@ -12,8 +12,9 @@ I am Mitchell, a computer science graduate with a major in software development.
 
 | 🏆 Primary | 📚 Learning |
 |:--------:|:-----------:|
-| <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> | <img alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> | 
-| <img alt="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> | <img alt="Godot" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" /> |  
+| <a href="https://www.python.org/" target="_blank"><img alt="Python" width="40px" src="./icons/python.png" /></a> | <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img alt="C++" width="40px" src="./icons/cplusplus.png" /></a> | 
+| <a href="https://code.visualstudio.com/" target="_blank"><img alt="VS Code" width="40px" src="./icons/vscode.png" /></a> | <a href="https://www.unrealengine.com/" target="_blank"><img alt="Unreal Engine" width="40px" src="./icons/unrealengine.png" /></a>
+ |  
 
 ---
 
